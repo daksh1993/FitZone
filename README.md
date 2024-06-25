@@ -26,7 +26,7 @@ Prerequisites :
 - Git
 Installation :
 -Clone the repo
-  git clone https://github.com/yourusername/FitZone.git
+  git clone https://github.com/daksh1993/FitZone.git
 -Install Flutter packages
   flutter pub get
 -Run the app
